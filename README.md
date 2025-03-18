@@ -1,5 +1,5 @@
 
-![Screenshot 2024-07-07 115018](https://github.com/Almudena-Rendon/rick-morty-drag-and-drop/assets/126793941/c2c1406e-4fe9-4889-aa44-ad4af5bccd2e)
+![freepik__background__34248](https://github.com/user-attachments/assets/81001f69-c31e-4b8e-998b-5d2e3c65e1d0)
 
 # Rick and Morty Drag and Drop
 
