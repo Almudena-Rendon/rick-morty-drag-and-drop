@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  height: 100vh; 
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)),
     url(./utils/images/background.jpg);
   background-size: cover;
