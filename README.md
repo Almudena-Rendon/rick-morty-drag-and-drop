@@ -11,7 +11,7 @@ https://rick-morty-drag-and-drop.vercel.app/
 
 ## Features
 
-- Drag and Drop React beautiful dnd
+- Drag and Drop hello-pangea/dnd library
 - Clean and modern UI
 
 ## Tech Stack
