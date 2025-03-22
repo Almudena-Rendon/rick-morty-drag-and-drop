@@ -20,7 +20,7 @@ https://rick-morty-drag-and-drop.vercel.app/
 - Vite
 - Javascript
 - CSS
-- React beautiful dnd
+- @hello-pangea/dnd
 
 ## Getting Started
 
