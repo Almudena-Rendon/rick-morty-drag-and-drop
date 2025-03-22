@@ -3,7 +3,7 @@
 
 # Rick and Morty Drag and Drop
 
-Rick and Morty Drag and Drop project implementing the React beautiful dnd library. I have used React, Vite, JavaScript, and CSS.
+Rick and Morty Drag and Drop project implementing hello-pangea/dnd library. I have used React, Vite, JavaScript, and CSS.
 
 ## Live Demo
 
