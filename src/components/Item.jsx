@@ -1,6 +1,6 @@
-import React from "react"
-import { Draggable } from "react-beautiful-dnd"
-import "../index.css"
+import React from 'react'
+import { Draggable } from '@hello-pangea/dnd'
+import '../index.css'
 
 const Item = ({ content, index }) => {
   return (

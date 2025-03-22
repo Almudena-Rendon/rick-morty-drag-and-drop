@@ -11,10 +11,10 @@
   },
   "dependencies": {
     "@emotion/styled": "^11.11.5",
+    "@hello-pangea/dnd": "^18.0.1",
     "@mui/material": "^5.15.19",
     "@mui/styled-engine-sc": "^6.0.0-alpha.18",
     "react": "^18.2.0",
-    "react-beautiful-dnd": "^13.1.1",
     "react-dom": "^18.2.0",
     "styled-components": "^6.1.11"
   },

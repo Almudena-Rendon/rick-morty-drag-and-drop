@@ -1,11 +1,11 @@
-import React from "react"
-import Item from "./Item"
-import { Droppable } from "react-beautiful-dnd"
-import "../index.css"
+import React from 'react'
+import Item from './Item'
+import { Droppable } from '@hello-pangea/dnd'
+import '../index.css'
 
 const Column = ({ col }) => {
   return (
-    <Droppable droppableId={col.id} direction='horizontal'>
+    <Droppable droppableId={col.id} direction="horizontal">
       {(provided) => (
         <div className="styled-column">
           <div
@@ -25,4 +25,3 @@ const Column = ({ col }) => {
 }
 
 export default Column
-
