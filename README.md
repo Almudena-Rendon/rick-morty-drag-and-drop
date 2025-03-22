@@ -1,5 +1,5 @@
 
-![freepik__background__24182](https://github.com/user-attachments/assets/f8ad5cc9-3ad5-4ebe-bb70-bb3cc0a38826)
+![freepik__background__24183](https://github.com/user-attachments/assets/b9047c14-71b0-477d-a4e5-b578e3a9d870)
 
 # Rick and Morty Drag and Drop
 
